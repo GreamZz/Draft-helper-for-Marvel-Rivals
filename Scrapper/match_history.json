@@ -1,0 +1,466 @@
+{
+    "dynamic_fields": {},
+    "game_mode_id": 1,
+    "match_play_duration": 480.0143053531647,
+    "match_players": [
+        {
+            "player_uid": 1727305870,
+            "nick_name": "St0nei",
+            "player_icon": 31040211,
+            "camp": 1,
+            "cur_hero_id": 1039,
+            "is_win": 1,
+            "k": 7,
+            "d": 5,
+            "a": 0,
+            "total_hero_damage": 8750.70767402649,
+            "total_hero_heal": 300.0,
+            "total_damage_taken": 14432.2655210495,
+            "badge_ids": null,
+            "last_kill": 6,
+            "session_hit_rate": 0.4457315138051412,
+            "solo_kill": 3,
+            "dynamic_fields": {
+                "add_score": 18.839013151844483,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3717.830112462192
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1039,
+                    "k": 7,
+                    "d": 5,
+                    "a": 0,
+                    "play_time": 480.01249730214477
+                }
+            ]
+        },
+        {
+            "player_uid": 991200938,
+            "nick_name": "Ancertho",
+            "player_icon": 31061204,
+            "camp": 1,
+            "cur_hero_id": 1024,
+            "is_win": 1,
+            "k": 18,
+            "d": 5,
+            "a": 1,
+            "total_hero_damage": 11506.17639541626,
+            "total_hero_heal": 0.0,
+            "total_damage_taken": 6776.316619873047,
+            "badge_ids": [
+                {
+                    "id": 9,
+                    "count": 1
+                },
+                {
+                    "id": 11,
+                    "count": 1
+                },
+                {
+                    "id": 1,
+                    "count": 1
+                }
+            ],
+            "last_kill": 10,
+            "session_hit_rate": 0.44929212802291635,
+            "solo_kill": 5,
+            "dynamic_fields": {
+                "add_score": 19.973067693341363,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3679.5176773726294
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1055,
+                    "k": 0,
+                    "d": 3,
+                    "a": 0,
+                    "play_time": 183.7688561193645
+                },
+                {
+                    "hero_id": 1024,
+                    "k": 18,
+                    "d": 2,
+                    "a": 1,
+                    "play_time": 296.24364118278027
+                }
+            ]
+        },
+        {
+            "player_uid": 1503147877,
+            "nick_name": "Flat Roach",
+            "player_icon": 31065208,
+            "camp": 1,
+            "cur_hero_id": 1059,
+            "is_win": 1,
+            "k": 8,
+            "d": 4,
+            "a": 1,
+            "total_hero_damage": 9467.132633447647,
+            "total_hero_heal": 287.39999771118164,
+            "total_damage_taken": 18771.12532711029,
+            "badge_ids": null,
+            "last_kill": 4,
+            "session_hit_rate": 0.3861397088393791,
+            "solo_kill": 1,
+            "dynamic_fields": {
+                "add_score": 19.749101008600064,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3687.0755670785206
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1062,
+                    "k": 1,
+                    "d": 2,
+                    "a": 1,
+                    "play_time": 184.51837550662458
+                },
+                {
+                    "hero_id": 1059,
+                    "k": 7,
+                    "d": 2,
+                    "a": 0,
+                    "play_time": 295.4941217955202
+                }
+            ]
+        },
+        {
+            "player_uid": 998317817,
+            "nick_name": "ООО<ТЛИЖУ>",
+            "player_icon": 30000263,
+            "camp": 1,
+            "cur_hero_id": 1023,
+            "is_win": 1,
+            "k": 2,
+            "d": 3,
+            "a": 13,
+            "total_hero_damage": 1234.9524431228638,
+            "total_hero_heal": 13861.051571846008,
+            "total_damage_taken": 2673.4612307548523,
+            "badge_ids": null,
+            "last_kill": 0,
+            "session_hit_rate": 0.5089724800521088,
+            "solo_kill": 0,
+            "dynamic_fields": {
+                "add_score": 21.061353306746696,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3642.760373191929
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1023,
+                    "k": 2,
+                    "d": 3,
+                    "a": 13,
+                    "play_time": 480.01249730214477
+                }
+            ]
+        },
+        {
+            "player_uid": 2103815211,
+            "nick_name": "tigrusha",
+            "player_icon": 31020216,
+            "camp": 1,
+            "cur_hero_id": 1047,
+            "is_win": 1,
+            "k": 14,
+            "d": 6,
+            "a": 17,
+            "total_hero_damage": 3273.429011821747,
+            "total_hero_heal": 11335.194679260254,
+            "total_damage_taken": 6773.230564832687,
+            "badge_ids": null,
+            "last_kill": 0,
+            "session_hit_rate": 0.6844650877125639,
+            "solo_kill": 0,
+            "dynamic_fields": {
+                "add_score": 32.67239619817701,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3629.217733738302
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1047,
+                    "k": 14,
+                    "d": 6,
+                    "a": 17,
+                    "play_time": 480.01249730214477
+                }
+            ]
+        },
+        {
+            "player_uid": 706460842,
+            "nick_name": "gobs",
+            "player_icon": 31024209,
+            "camp": 1,
+            "cur_hero_id": 1021,
+            "is_win": 1,
+            "k": 14,
+            "d": 5,
+            "a": 0,
+            "total_hero_damage": 7608.340469360352,
+            "total_hero_heal": 807.3419342041016,
+            "total_damage_taken": 6912.648770332336,
+            "badge_ids": null,
+            "last_kill": 11,
+            "session_hit_rate": 0.5153449545789345,
+            "solo_kill": 1,
+            "dynamic_fields": {
+                "add_score": 34.726252134699735,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3582.9445246054365
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1021,
+                    "k": 14,
+                    "d": 5,
+                    "a": 0,
+                    "play_time": 480.01249730214477
+                }
+            ]
+        },
+        {
+            "player_uid": 496259975,
+            "nick_name": "Temograa",
+            "player_icon": 31056206,
+            "camp": 0,
+            "cur_hero_id": 1061,
+            "is_win": 0,
+            "k": 13,
+            "d": 5,
+            "a": 4,
+            "total_hero_damage": 8458.527990341187,
+            "total_hero_heal": 0.0,
+            "total_damage_taken": 5235.883332014084,
+            "badge_ids": null,
+            "last_kill": 3,
+            "session_hit_rate": 0.40587449933244324,
+            "solo_kill": 0,
+            "dynamic_fields": {
+                "add_score": -27.282786176586797,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3541.6612735771805
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1061,
+                    "k": 13,
+                    "d": 5,
+                    "a": 4,
+                    "play_time": 480.01249730214477
+                }
+            ]
+        },
+        {
+            "player_uid": 343584288,
+            "nick_name": "PororoPingui",
+            "player_icon": 31053001,
+            "camp": 0,
+            "cur_hero_id": 1028,
+            "is_win": 0,
+            "k": 12,
+            "d": 4,
+            "a": 21,
+            "total_hero_damage": 9308.09421300888,
+            "total_hero_heal": 14104.662811279297,
+            "total_damage_taken": 4279.4889360666275,
+            "badge_ids": [
+                {
+                    "id": 12,
+                    "count": 1
+                },
+                {
+                    "id": 8,
+                    "count": 1
+                }
+            ],
+            "last_kill": 3,
+            "session_hit_rate": 0.5449429680863973,
+            "solo_kill": 0,
+            "dynamic_fields": {
+                "add_score": -24.342145485942638,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3761.0132688933245
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1047,
+                    "k": 0,
+                    "d": 0,
+                    "a": 0,
+                    "play_time": 3.0591266583651304
+                },
+                {
+                    "hero_id": 1028,
+                    "k": 12,
+                    "d": 4,
+                    "a": 21,
+                    "play_time": 452.1939005795866
+                }
+            ]
+        },
+        {
+            "player_uid": 263045372,
+            "nick_name": ".krumel.",
+            "player_icon": 31057207,
+            "camp": 0,
+            "cur_hero_id": 1017,
+            "is_win": 0,
+            "k": 17,
+            "d": 7,
+            "a": 4,
+            "total_hero_damage": 10922.242608308792,
+            "total_hero_heal": 0.0,
+            "total_damage_taken": 4670.23746919632,
+            "badge_ids": null,
+            "last_kill": 6,
+            "session_hit_rate": 0.3483806146572104,
+            "solo_kill": 3,
+            "dynamic_fields": {
+                "add_score": -21.747404576189638,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3671.172974638437
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1017,
+                    "k": 17,
+                    "d": 7,
+                    "a": 4,
+                    "play_time": 480.01249730214477
+                }
+            ]
+        },
+        {
+            "player_uid": 317482238,
+            "nick_name": "ewwacat",
+            "player_icon": 31038214,
+            "camp": 0,
+            "cur_hero_id": 1015,
+            "is_win": 0,
+            "k": 9,
+            "d": 7,
+            "a": 14,
+            "total_hero_damage": 9994.58043384552,
+            "total_hero_heal": 0.0,
+            "total_damage_taken": 6329.383805394173,
+            "badge_ids": null,
+            "last_kill": 4,
+            "session_hit_rate": 0.5321620011911852,
+            "solo_kill": 0,
+            "dynamic_fields": {
+                "add_score": -20.67583357595049,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3634.868107552843
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1015,
+                    "k": 9,
+                    "d": 7,
+                    "a": 14,
+                    "play_time": 480.01249730214477
+                }
+            ]
+        },
+        {
+            "player_uid": 209051471,
+            "nick_name": "wasd_spectre",
+            "player_icon": 30000026,
+            "camp": 0,
+            "cur_hero_id": 1016,
+            "is_win": 0,
+            "k": 6,
+            "d": 5,
+            "a": 9,
+            "total_hero_damage": 3911.6410913467407,
+            "total_hero_heal": 7679.575891494751,
+            "total_damage_taken": 4450.336398124695,
+            "badge_ids": null,
+            "last_kill": 2,
+            "session_hit_rate": 0.2998854965168215,
+            "solo_kill": 0,
+            "dynamic_fields": {
+                "add_score": -24.213447497218112,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3472.110099303199
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1016,
+                    "k": 6,
+                    "d": 5,
+                    "a": 9,
+                    "play_time": 480.01249730214477
+                }
+            ]
+        },
+        {
+            "player_uid": 1790728059,
+            "nick_name": "p1xl8",
+            "player_icon": 31040211,
+            "camp": 0,
+            "cur_hero_id": 1011,
+            "is_win": 0,
+            "k": 15,
+            "d": 3,
+            "a": 0,
+            "total_hero_damage": 9961.484244823456,
+            "total_hero_heal": 0.0,
+            "total_damage_taken": 20416.837738513947,
+            "badge_ids": [
+                {
+                    "id": 6,
+                    "count": 1
+                },
+                {
+                    "id": 7,
+                    "count": 1
+                },
+                {
+                    "id": 2,
+                    "count": 1
+                }
+            ],
+            "last_kill": 10,
+            "session_hit_rate": 0.18819007686932215,
+            "solo_kill": 1,
+            "dynamic_fields": {
+                "add_score": -23.43424635743986,
+                "level": 1.0,
+                "new_level": 1.0,
+                "new_score": 3729.1317220076953
+            },
+            "player_heroes": [
+                {
+                    "hero_id": 1011,
+                    "k": 15,
+                    "d": 3,
+                    "a": 0,
+                    "play_time": 480.01249730214477
+                }
+            ]
+        }
+    ],
+    "match_time_stamp": 1793662861,
+    "match_uid": "5026127_1793662289_1413265_11001_22",
+    "mvp_hero_id": 1024,
+    "mvp_uid": 991200938,
+    "replay_id": "50536732937",
+    "svp_hero_id": 1011,
+    "svp_uid": 1790728059
+}
